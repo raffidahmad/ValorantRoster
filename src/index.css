@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'VALORANT';
+  src: url('/public/Valorant\ Font.ttf');
+}
+
+/* set global font */
+* {
+  font-family: 'VALORANT';
+}
