@@ -9,19 +9,19 @@ import Carousel from '../components/Carousel';
 function Home() {
   const agents = [
     {
-      name: '???',
-      image: gekko,
+      name: '4saken',
+      image: omen,
       underline: false
     },
     {
-      name: '???',
+      name: 'Butcher',
       image: jett,
       underline: false
     },
 
     {
       name: 'suika',
-      image: omen,
+      image: gekko,
       underline: true
     },
     {
@@ -30,7 +30,7 @@ function Home() {
       underline: false
     },
     {
-      name: '???',
+      name: 'S1mple',
       image: sage,
       underline: false
     }
